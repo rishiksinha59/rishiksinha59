@@ -5,12 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF69B4&size=24&width=500&lines=Hello+Folks...;A+Full-Stack+Web+Developer;)](https://git.io/typing-svg)
 
 
+Hey there! I'm a Full Stack Developer with a passion for creating digital products that enhance people's everyday experiences. I thrive on tackling exciting projects that put my learning to the test, primarily with the MERN stack and programming languages like JavaScript for web development. I'm eagerly anticipating intriguing and challenging opportunities.
 
-Hello stranger! I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
+Explore my GitHub to see some of my work, and don't forget to visit my website for additional details on my projects and experience.
 
-You can find some of my work on GitHub, and be sure to check out my website for more information about my projects and experience.
-
-Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!
+Feel free to connect with me on LinkedIn for a deeper dive into my professional background and skills. Thanks for dropping by!
 
 
 
