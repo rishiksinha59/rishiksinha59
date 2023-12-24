@@ -48,7 +48,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Resume]() and [Portfolio]()
+- 👨‍💻 All of my projects are available at [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
 
 </p>
 
