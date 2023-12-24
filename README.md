@@ -23,7 +23,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
           <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Rishik Sinha 🏽; I am Developer;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
       </p>
      
-<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+<img width="100%" height="3px" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
  
 <img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px>
