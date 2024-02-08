@@ -1,9 +1,10 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Rishik Sinha 💻!
 </h2>  
+<center><h2>An enthusiastic web developer!!</h2></center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF69B4&size=24&width=500&lines=Hello+Folks...;A+Full-Stack+Web+Developer;)](https://git.io/typing-svg)
-An enthusiastic web developer!!
+
 
 Hey there! I'm a Full Stack Developer with a passion for creating digital products that enhance people's everyday experiences. I thrive on tackling exciting projects that put my learning to the test, primarily with the MERN stack and programming languages like JavaScript for web development. I'm eagerly anticipating intriguing and challenging opportunities.
 
