@@ -49,6 +49,8 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
 
 - 👨‍💻 All of my projects are available at [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
 
+- You can connect me on my professional LinkedIn at [https://www.linkedin.com/in/rishik-sinha-61a718287/](https://www.linkedin.com/in/rishik-sinha-61a718287/) 
+
 </p>
 
 <h2>🥇 Skills:  </h2>  
