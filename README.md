@@ -89,7 +89,7 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" /> -->
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*X7a7F-yXRUAGLGLzdlGQMA.png" alt="Node">
+  
   <div/>
 </p>
 
