@@ -109,7 +109,7 @@ Bewakoof is a product based company dealing with clothes and accessories busines
 
 Specialized is high grade bicycle company which deals on exclusive and advance bicyles. The tech stacks included HTML/CSS and JS
 
-[https://github.com/Surajdy/Specialized]([link_to_project_2](https://github.com/Surajdy/Specialized))
+[https://github.com/Surajdy/Specialized](https://github.com/Surajdy/Specialized)
 ---
 
 ### Project 3: Sugar Cosmetics E-Shop
