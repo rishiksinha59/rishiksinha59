@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF69B4&size=24&width=500&lines=Hello+Folks...;A+Full-Stack+Web+Developer;)](https://git.io/typing-svg)
 
 
-Hey there! I'm a Full Stack Developer with a passion for creating digital products that enhance people's everyday experiences. I thrive on tackling exciting projects that put my learning to the test, primarily with the MERN stack and programming languages like JavaScript for web development. I'm eagerly anticipating intriguing and challenging opportunities.
+Hey there! I'm a Full Stack Developer with a passion for creating digital products that enhance people's everyday experiences. My hometown is Bokaro Steel City in Jharkhand. I thrive on tackling exciting projects that put my learning to the test, primarily with the MERN stack and programming languages like JavaScript for web development. I'm eagerly anticipating intriguing and challenging opportunities.
 
 Explore my GitHub to see some of my work, and don't forget to visit my website for additional details on my projects and experience.
 
@@ -48,9 +48,10 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 👨‍💻 All of my projects are available at [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
+- 👨‍💻 My projects are available at my portfolio [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
 
-- You can connect me on my professional LinkedIn at [https://www.linkedin.com/in/rishik-sinha-61a718287/](https://www.linkedin.com/in/rishik-sinha-61a718287/) 
+- You can connect me on my professional LinkedIn at [https://www.linkedin.com/in/rishik-sinha-61a718287/](https://www.linkedin.com/in/rishik-sinha-61a718287/)
+- Get to know more about my skills and experiences from my resume [https://test-resume.masaischool.com/resume?resumeId=6575e8f739f30f1c4542fa18&selectedTemplate=ModernMilestone](https://test-resume.masaischool.com/resume?resumeId=6575e8f739f30f1c4542fa18&selectedTemplate=ModernMilestone) 
 
 </p>
 
