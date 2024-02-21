@@ -114,14 +114,14 @@ Specialized is high grade bicycle company which deals on exclusive and advance b
 
 Sugar cosmetics is a product based company dealing with beauty products. The tech stacks used to build this project required HTML/CSS, JS, React, and Redux
 
-[Link to Project 3](link_to_project_3)
+[https://github.com/navtejnt1/cosmetics-eshop](https://github.com/navtejnt1/cosmetics-eshop)
 
 ---
 ### Project 4: 
 
 Description of Project 4.
 
-[https://github.com/navtejnt1/cosmetics-eshop](https://github.com/navtejnt1/cosmetics-eshop)
+[Link_project_4]()
 
 Feel free to explore more projects on my GitHub repositories.
 
