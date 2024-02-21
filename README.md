@@ -95,8 +95,8 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
 <br/>
 <br/>
 <br/>
-Projects
 ---
+
 ### Project 1: Bewakoof Clothing and Accessories E-Commerce
 
 Bewakoof is a product based company dealing with clothes and accessories business. Tech stacks for this project involved HTML/CSS & JS.
