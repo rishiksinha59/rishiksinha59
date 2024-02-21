@@ -95,13 +95,14 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
 <br/>
 <br/>
 <br/>
-## Projects
-
+Projects
+---
 ### Project 1: Bewakoof Clothing and Accessories E-Commerce
 
 Bewakoof is a product based company dealing with clothes and accessories business. Tech stacks for this project involved HTML/CSS & JS.
 
 [https://github.com/Surajdy/Bewakoof_Clone](https://github.com/Surajdy/Bewakoof_Clone)
+---
 
 ### Project 2: Specialized Cycle Shop
 
@@ -115,11 +116,12 @@ Sugar cosmetics is a product based company dealing with beauty products. The tec
 
 [Link to Project 3](link_to_project_3)
 
+---
 ### Project 4: 
 
 Description of Project 4.
 
-[Link to Project 4](link_to_project_4)
+[https://github.com/navtejnt1/cosmetics-eshop](https://github.com/navtejnt1/cosmetics-eshop)
 
 Feel free to explore more projects on my GitHub repositories.
 
