@@ -125,3 +125,18 @@ Feel free to connect with me on LinkedIn for a deeper dive into my professional 
 
 
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
+
+
+<p>
+<a href="https://github.com/rishiksinha59"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishiksinha59&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rishiksinha59&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/rishiksinha59"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishiksinha59&theme=dracula" />
+</span></a> </p>
