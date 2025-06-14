@@ -27,24 +27,24 @@ Connect on LinkedIn for a deeper look into the professional background and skill
 
 <p width="50%" >
 
-- 🔭 I’m currently working on **Frontend & Backend**
+- 🔭 Currently working on **Frontend**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Exploring more of **MERN stack**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 Looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 Reach me on **rishiksinha59@gmail.com **
+- 📫 Reach on **rishiksinha59@gmail.com **
 
-- 💬 ask me about anything, i am happy to help
+- 💬 Open to any queries — always happy to assist with insights, guidance, or collaboration.
 
 - 😄 Pronouns: He/His
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 👨‍💻 My projects are available at my portfolio [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
+- 👨‍💻 Projects are available on the portfolio [https://rishiksinha59.github.io/](https://rishiksinha59.github.io/)
 
-- You can connect me on my professional LinkedIn at [https://www.linkedin.com/in/rishik-sinha-61a718287/](https://www.linkedin.com/in/rishik-sinha-61a718287/)
-- Get to know more about my skills and experiences from my resume [https://test-resume.masaischool.com/resume?resumeId=6575e8f739f30f1c4542fa18&selectedTemplate=ModernMilestone](https://test-resume.masaischool.com/resume?resumeId=6575e8f739f30f1c4542fa18&selectedTemplate=ModernMilestone) 
+- Connect on professional LinkedIn at [https://www.linkedin.com/in/rishik-sinha-61a718287/](https://www.linkedin.com/in/rishik-sinha-61a718287/)
+- Get to know more about skills and experiences from the resume [https://drive.google.com/file/d/1VbmurHqufLZl8NjjE280_eLrsbmSH5r8/view?usp=sharing](https://drive.google.com/file/d/1VbmurHqufLZl8NjjE280_eLrsbmSH5r8/view?usp=sharing) 
 
 </p>
 
